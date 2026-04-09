@@ -1,7 +1,5 @@
 # Kafka Cluster
-Instead of a single-node setup, the project provides a "ready-to-use" local multi-broker Kafka environment that mimics a production-like architecture. Kafka UI is also include to ease monitoring and management.
-
-
+Instead of a single-node setup, the project provides a "ready-to-use" local multi-broker Kafka environment that mimics a production-like architecture.
 ## Run
 
 `docker compose up --build`
