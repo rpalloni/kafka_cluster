@@ -1,0 +1,5 @@
+# reduce kafka ui logging
+logging:
+  level:
+    root: WARN
+    io.kafbat.ui: WARN
